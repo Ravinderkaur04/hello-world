@@ -1,2 +1,3 @@
 # hello-world
-kick starter repo
+
+I'm Ravinder Kaur
